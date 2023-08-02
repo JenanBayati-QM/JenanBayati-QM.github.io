@@ -1,1 +1,1 @@
-# JenanBayati-QM.github.io
+theme: minimal
