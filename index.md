@@ -2,9 +2,6 @@
 layout: default
 ---
 
-[Day 1](./another-page.html).
-[Link to another page](./another-page.html).
-
 # Day 1 (30.08.2023)
 
 My intership day started on Sunday, because working days in Qatar are from Sunday to Thursday. 
@@ -40,7 +37,7 @@ Disclaimer, don't eat expired egg even if it looks good!
 
 ***
 
-# 1.8.23 Day 3
+# Day 3 (01.08.23)
 
 Today I continued to analyse the observation sheets and chose to do the charts about:
 
@@ -57,10 +54,14 @@ I exported the excel chart and finalised it in Illustrator as it gives more free
 The charts were ready and  I made a presentation about it in PowerPoint.  In the slides I wrote about my results, pros and cons of the observation sheet,  ideas how we could make it work better and suggested a SWOT analysis as a fast method to understand is our chart/ sheet good.
 
 SWOT analyses stand for
-S = Strength
-W = Weakness
-O = Opportunity
-T = Threat
+
+* S = Strength
+
+* W = Weakness
+
+* O = Opportunity
+
+* T = Threat
 
 I will present this to my manager tomorrow and get feedback about it.
 
@@ -83,63 +84,8 @@ I also started doing my blog on GitHub which took more time than I thought as it
 
 
 
-#### Header 4
 
-*   This is an unordered list following a header.
-
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![QM-Logo]([https://github.githubassets.com/images/icons/emoji/octocat.png)](https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png)
 
 ### Large image
 
