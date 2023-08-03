@@ -3,6 +3,7 @@ layout: default
 ---
 
 [Link to another page](./another-page.html).
+[Link to another page](./another-page.html).
 
 # Day 1 (30.08.2023)
 
@@ -81,28 +82,6 @@ I also started doing my blog on GitHub which took more time than I thought as it
 
 
 
-
-## Header 2
-
-> This is a blockquote following a header.
-
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
