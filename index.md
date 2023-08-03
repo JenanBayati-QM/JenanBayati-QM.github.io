@@ -85,7 +85,14 @@ I also started doing my blog on GitHub which took more time than I thought as it
 
 <b>Today</b> I continiued with GitHub. I had written my daily doings on my notes and the text was ready. The question now was were to put it. After going thru few files I foud the right place where to code it. It took me some time to get used to the coding but after I had refreshed my memory, <b>IT WAS FUN!</b> I wan't to try every week to learn something new and see how my blog will turn out after seven weeks.
 
-In addition to Doing my Blog I made a chart out of the survey results and ......
+At 10:30 AM we had an meeting for interns where we went through how we report our doings etc.
+
+In addition to Doing my Blog I made a chart out of AJ's and TA's survey and I compared them toghether. The title of the chart was:
+
+* What was the most engaged multimedia content in this museum/exhibition?
+Comparing results  of AJ & TA
+
+I did the chart in Excel. I might want to next time try some other program and see how it works!
 
 My first week was very interesting and I lerned a lot of new things. Can't wait for the coming weeks!
 
