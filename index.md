@@ -6,24 +6,22 @@ layout: default
 
 # Day 1 (30.08.2023)
 
-30.8.23 Day 1
+My intership day started on Sunday, because working days in Qatar are from Sunday to Thursday. 
 
-the training day started on Sunday, because working days in Qatar are Sun – Thu. Fri–Sat are holidays.
+I'm excited in a good way and I started working by doing background research on the museum itself, where I'm going to do my internship (Lusail Museum)
 
-I'm excited in a good way and I started the work by doing background research on the museum itself, where I'm going to do my internship (Lusail Museum)
+At 9 AM I had my first meeting with my supervisor and we talked a little about what was on this week's agenda. Since I'm doing the internship remotely, I got slightly different tasks than the intern starting at the same time as me but on site.
 
-At 9:00 I had my first meeting with my supervisor and we talked a little about what was on this week's agenda. Since I'm doing the internship remotely, I got slightly different tasks than the intern starting at the same time as me.
-
-My tasks are mostly focused on tasks at the computer, for example, analyzing surveys, presenting results, generating ideas, documenting, etc.
+My tasks are mostly focused on computer, for example, analyzing surveys, presenting results, generating ideas, documenting, etc.
 
 
-10 I got to the weekly QM staff meeting, where I got to know other employees and their interesting tasks.
+At 10 AM I got to the weekly QM staff meeting, where I got to know other employees and their interesting tasks.
 
-11:00 My manager gave me a tour of the Qatar National Museum remotely and my internship partner on site. The main focus was on the use of electronic devices. What different programs were running on them, how some were programmed, what was the name of the different hardware, etc.
+At 11 AM My manager gave me a tour of the Qatar National Museum remotely and my internship partner on site. The main focus was on the use media devices. What different programs were running on them, how some were programmed, what were the name's of the different screens , etc.
 
 I had visited this museum before, but it was even more fascinating to understand what is done behind the scenes, how much work has been put into it.
 
-The rest of the day was spent figuring out and installing a new user and password.
+The rest of the day I spent on setting my new email.
 
 A very interesting first day!
 
