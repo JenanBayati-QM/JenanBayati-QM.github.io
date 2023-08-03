@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Day 1 (30.08.2023)
+# <p style="color:blue;">Day 1 (30.08.2023).</p>
 
 <b>My</b>  intership day started on Sunday, because working days in Qatar are from Sunday to Thursday.
 
