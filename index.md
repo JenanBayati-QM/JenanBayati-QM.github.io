@@ -23,19 +23,19 @@ I had visited this museum before, but it was even more fascinating to understand
 
 The rest of the day I spent on setting my new email.
 
-A very interesting first day!
+<b>A very interesting first day!</b>
 
 ***
 
 # Day 2 (31.08.23)
 
-In my second day I started to read and analyse data from previous observation sheet.
+On my second day I started to read and analyse data from previous observation sheet.
 
-In total I analysed 37 observation sheets first individually. After that I started to compere them with each other and tried to think what would I like to analyse deeper. From what should I  make a chart.
+In total I analysed 37 observation sheets first individually. After that I started to compere them with each other and tried to think what would I like to analyse deeper. From what should I  make a chart?
 
 Unfortunately I didn't get to think deeper as I had stomach-ache an had to rest for the day.
 
-Disclaimer don't eat expired egg even if it looks good!
+Disclaimer, don't eat expired egg even if it looks good!
 
 ***
 
@@ -62,8 +62,6 @@ O = Opportunity
 T = Threat
 
 I will present this to my manager tomorrow and get feedback about it.
-
-> I used a book called... as my help in this task.
 
 ***
 
