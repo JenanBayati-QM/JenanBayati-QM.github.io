@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[Day 1](./another-page.html).
 [Link to another page](./another-page.html).
 
 # Day 1 (30.08.2023)
