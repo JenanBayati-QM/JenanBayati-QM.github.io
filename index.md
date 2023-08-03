@@ -4,9 +4,29 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-# Header 1
+# Day 1 (30.08.2023)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+30.8.23 Day 1
+
+the training day started on Sunday, because working days in Qatar are Sun – Thu. Fri–Sat are holidays.
+
+I'm excited in a good way and I started the work by doing background research on the museum itself, where I'm going to do my internship (Lusail Museum)
+
+At 9:00 I had my first meeting with my supervisor and we talked a little about what was on this week's agenda. Since I'm doing the internship remotely, I got slightly different tasks than the intern starting at the same time as me.
+
+My tasks are mostly focused on tasks at the computer, for example, analyzing surveys, presenting results, generating ideas, documenting, etc.
+
+
+10 I got to the weekly QM staff meeting, where I got to know other employees and their interesting tasks.
+
+11:00 My manager gave me a tour of the Qatar National Museum remotely and my internship partner on site. The main focus was on the use of electronic devices. What different programs were running on them, how some were programmed, what was the name of the different hardware, etc.
+
+I had visited this museum before, but it was even more fascinating to understand what is done behind the scenes, how much work has been put into it.
+
+The rest of the day was spent figuring out and installing a new user and password.
+
+A very interesting first day!
+
 
 ## Header 2
 
