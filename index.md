@@ -55,13 +55,13 @@ The charts were ready and  I made a presentation about it in PowerPoint.  In the
 
 SWOT analyses stand for
 
-* S = Strength
+*S = Strength
 
-* W = Weakness
+*W = Weakness
 
-* O = Opportunity
+*O = Opportunity
 
-* T = Threat
+*T = Threat
 
 I will present this to my manager tomorrow and get feedback about it.
 
@@ -85,8 +85,7 @@ I also started doing my blog on GitHub which took more time than I thought as it
 
 
 
-![QM-Logo]([https://github.githubassets.com/images/icons/emoji/octocat.png)](https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png)
-
+![QM-Logo]([(https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png)]
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
