@@ -4,7 +4,7 @@ layout: default
 
 # Day 1 (30.08.2023)
 
-<b>My intership day started on Sunday, because working days in Qatar are from Sunday to Thursday.</b> 
+<b>My</b>  intership day started on Sunday, because working days in Qatar are from Sunday to Thursday.
 
 I'm excited in a good way and I started working by doing background research on the museum itself, where I'm going to do my internship (Lusail Museum)
 
@@ -27,7 +27,7 @@ The rest of the day I spent on setting my new email.
 
 # Day 2 (31.08.23)
 
-<b>On my second day I started to read and analyse data from previous observation sheet.</b>
+<b>On</b>  my second day I started to read and analyse data from previous observation sheet.
 
 In total I analysed 37 observation sheets first individually. After that I started to compere them with each other and tried to think what would I like to analyse deeper. From what should I  make a chart?
 
@@ -53,15 +53,15 @@ I exported the excel chart and finalised it in Illustrator as it gives more free
 
 The charts were ready and  I made a presentation about it in PowerPoint.  In the slides I wrote about my results, pros and cons of the observation sheet,  ideas how we could make it work better and suggested a SWOT analysis as a fast method to understand is our chart/ sheet good.
 
-SWOT analyses stand for
+<b>SWOT</b>  analyses stand for
 
-*S = Strength
+<b>S</b>  = Strength
 
-*W = Weakness
+<b>W</b>  = Weakness
 
-*O = Opportunity
+<b>O</b>  = Opportunity
 
-*T = Threat
+<b>T</b>  = Threat
 
 I will present this to my manager tomorrow and get feedback about it.
 
@@ -69,7 +69,7 @@ I will present this to my manager tomorrow and get feedback about it.
 
 # Day 4 (02.08.2023)
 
-I worked on how to present the presentation and did some last edits.
+<b>I</b>  worked on how to present the presentation and did some last edits.
 
 At 10 am I had a meeting with my manager (Weekly meeting). We had discussion about how the week has gone. I also got to ask few questions that I had in my mind. After that I presented my results of the Qualitative research.
 
@@ -82,27 +82,8 @@ After the meeting I went over two Survey results of QM visitors that were analys
 I also started doing my blog on GitHub which took more time than I thought as it was quite new for me. After many trials and errors I got it to work and will fill it in the next day.
 
 
-<img src="https://html.sammy-codes.com/images/small-profile.jpeg">
+<img src="https://html.sammy-codes.com/images/small-profile.jpeg](https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png">
 
-
-![QM-Logo]([(https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png)]
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'
