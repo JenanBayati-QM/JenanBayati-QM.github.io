@@ -4,7 +4,7 @@ layout: default
 
 # Day 1 (30.08.2023)
 
-My intership day started on Sunday, because working days in Qatar are from Sunday to Thursday. 
+<b>My intership day started on Sunday, because working days in Qatar are from Sunday to Thursday.</b> 
 
 I'm excited in a good way and I started working by doing background research on the museum itself, where I'm going to do my internship (Lusail Museum)
 
@@ -27,7 +27,7 @@ The rest of the day I spent on setting my new email.
 
 # Day 2 (31.08.23)
 
-On my second day I started to read and analyse data from previous observation sheet.
+<b>On my second day I started to read and analyse data from previous observation sheet.</b>
 
 In total I analysed 37 observation sheets first individually. After that I started to compere them with each other and tried to think what would I like to analyse deeper. From what should I  make a chart?
 
@@ -39,7 +39,7 @@ Disclaimer, don't eat expired egg even if it looks good!
 
 # Day 3 (01.08.23)
 
-Today I continued to analyse the observation sheets and chose to do the charts about:
+<b>Today</b> I continued to analyse the observation sheets and chose to do the charts about:
 
 1. How many minute does different ages spend on an exhibition
 
