@@ -81,14 +81,17 @@ After the meeting I went over two Survey results of QM visitors that were analys
 
 I also started doing my blog on GitHub which took more time than I thought as it was quite new for me. After many trials and errors I got it to work and will fill it in the next day.
 
+# Day 5 (03.08.2023)
+
+<b>Today</b> I continiued with GitHub. I had written my daily doings on my notes and the text was ready. The question now was were to put it. After going thru few files I foud the right place where to code it. It took me some time to get used to the coding but after I had refreshed my memory, <b>IT WAS FUN!</b> I wan't to try every week to learn something new and see how my blog will turn out after seven weeks.
+
+In addition to Doing my Blog I made a chart out of the survey results and ......
+
+My first week was very interesting and I lerned a lot of new things. Can't wait for the coming weeks!
 
 <img src="https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png">
 
 
 ```
 Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'
-```
-
-```
-The final element.
 ```
