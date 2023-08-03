@@ -82,7 +82,7 @@ After the meeting I went over two Survey results of QM visitors that were analys
 I also started doing my blog on GitHub which took more time than I thought as it was quite new for me. After many trials and errors I got it to work and will fill it in the next day.
 
 
-<img src="https://html.sammy-codes.com/images/small-profile.jpeg](https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png">
+<img src="(https://html.sammy-codes.com/images/small-profile.jpeg](https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png)">
 
 
 ```
