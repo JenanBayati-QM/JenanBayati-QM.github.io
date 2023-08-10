@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Day 1 (30.08.2023)
+# Week 1
+
+## Day 1 (30.08.2023)
 
 <b>My</b>  intership day started on Sunday, because working days in Qatar are from Sunday to Thursday.
 
@@ -25,7 +27,7 @@ The rest of the day I spent on setting my new email.
 
 ***
 
-# Day 2 (31.08.23)
+## Day 2 (31.08.23)
 
 <b>On</b>  my second day I started to read and analyse data from previous observation sheet.
 
@@ -37,7 +39,7 @@ Disclaimer, don't eat expired egg even if it looks good!
 
 ***
 
-# Day 3 (01.08.23)
+## Day 3 (01.08.23)
 
 <b>Today</b> I continued to analyse the observation sheets and chose to do the charts about:
 
@@ -67,7 +69,7 @@ I will present this to my manager tomorrow and get feedback about it.
 
 ***
 
-# Day 4 (02.08.2023)
+## Day 4 (02.08.2023)
 
 <b>I</b>  worked on how to present the presentation and did some last edits.
 
@@ -81,7 +83,7 @@ After the meeting I went over two Survey results of QM visitors that were analys
 
 I also started doing my blog on GitHub which took more time than I thought as it was quite new for me. After many trials and errors I got it to work and will fill it in the next day.
 
-# Day 5 (03.08.2023)
+## Day 5 (03.08.2023)
 
 <b>Today</b> I continiued with GitHub. I had written my daily doings on my notes and the text was ready. The question now was were to put it. After going thru few files I foud the right place where to code it. It took me some time to get used to the coding but after I had refreshed my memory, <b>IT WAS FUN!</b> I wan't to try every week to learn something new and see how my blog will turn out after seven weeks.
 
@@ -97,6 +99,11 @@ I did the chart in Excel. I might want to next time try some other program and s
 My first week was very interesting and I lerned a lot of new things. Can't wait for the coming weeks!
 
 <img src="https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png">
+
+# Week 2
+
+## Day 6 (06.08.2023)
+
 
 
 ```
