@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Week 1](./another-page.html).
+# [Week 1](./another-page.html)
 
 ## Day 1 (30.08.2023)
 
