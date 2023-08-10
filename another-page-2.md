@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+## Day 6 (06.08.2023)
 <b>I</b> started today to edit my last week's chart on "the most used media in QM". Most of the edits were based on the feedback that I got, and a book called: Data as a story telling.
 
 Few of the changes that I made:
