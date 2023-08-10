@@ -21,5 +21,7 @@ I had visited this museum before, but it was even more fascinating to understand
 
 The rest of the day I spent on setting my new email.
 
+<b>A very interesting first day!</b>
+
 
 #[back](./)
