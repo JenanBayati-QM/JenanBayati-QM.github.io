@@ -4,7 +4,7 @@ layout: default
 
 ## Day 1 (30.08.2023)
 
-<b>My</b>  intership day started on Sunday, because working days in Qatar are from Sunday to Thursday.
+<b>My</b> intership day started on Sunday, because working days in Qatar are from Sunday to Thursday.
 
 I'm excited in a good way and I started working by doing background research on the museum itself, where I'm going to do my internship (Lusail Museum)
 
@@ -12,8 +12,7 @@ At 9 AM I had my first meeting with my supervisor and we talked a little about w
 
 My tasks are mostly focused on computer, for example, analyzing surveys, presenting results, generating ideas, documenting, etc.
 
-
-At 10 AM I got to the weekly QM staff meeting, where I got to know other employees and their interesting tasks.
+At 10 AM I got to the weekly QM staff meeting, where I got to meet LM staff and their interesting tasks.
 
 At 11 AM My manager gave me a tour of the Qatar National Museum remotely and my internship partner on site. The main focus was on the use media devices. What different programs were running on them, how some were programmed, what were the name's of the different screens , etc.
 
@@ -63,7 +62,7 @@ The charts were ready and  I made a presentation about it in PowerPoint.  In the
 
 <b>T</b>  = Threat
 
-I will present this to my manager tomorrow and get feedback about it.
+I will present this to my manager tomorrow and get feedback from it.
 
 ***
 
@@ -71,15 +70,17 @@ I will present this to my manager tomorrow and get feedback about it.
 
 <b>I</b>  worked on how to present the presentation and did some last edits.
 
-At 10 am I had a meeting with my manager (Weekly meeting). We had discussion about how the week has gone. I also got to ask few questions that I had in my mind. After that I presented my results of the Qualitative research.
+At 10 am I had a meeting with my supervisor (Weekly meeting). We had discussion about how the week has gone. I also got to ask few questions that I had in my mind. After that I presented my results of the Qualitative research.
 
 We had an interesting discussion about it and I got few good tips when doing e.g. charts next time.
+
 * Name axis of the chart clearly
 * Be aware to choos colors that everybody can see
 
 After the meeting I went over two Survey results of QM visitors that were analysed beforehand with the Microsoft AI. My task is to compere these two and make a chart out of it. Main focus is on the use of digital & multimedia devices
 
 I also started doing my blog on GitHub which took more time than I thought as it was quite new for me. After many trials and errors I got it to work and will fill it in the next day.
+
 ## Day 5 (03.08.2023)
 
 <b>Today</b> I continiued with GitHub. I had written my daily doings on my notes and the text was ready. The question now was were to put it. After going thru few files I foud the right place where to code it. It took me some time to get used to the coding but after I had refreshed my memory, <b>IT WAS FUN!</b> I wan't to try every week to learn something new and see how my blog will turn out after seven weeks.
