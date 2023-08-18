@@ -8,7 +8,6 @@ layout: default
 
 <img src="https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png">
 
-
 ```
-Week 1 Week 2 <b>Week 3</b> Week 4 Week 6 Week 7 Week 8
+Week 1 Week 2 WEEK 3 Week 4 Week 6 Week 7 Week 8
 ```
