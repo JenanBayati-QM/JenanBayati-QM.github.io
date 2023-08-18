@@ -10,5 +10,5 @@ layout: default
 
 
 ```
-Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'Jenan Bayati internship 23'
+Week 1 Week 2 <b>Week 3</b> Week 4 Week 6 Week 7 Week 8
 ```
