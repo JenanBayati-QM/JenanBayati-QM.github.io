@@ -42,5 +42,8 @@ I collected all the graphs in to a presentation and sent it to my supervisor wit
 
 For the rest of the day I was working on this blog.
 
+<img src="assets/Observatin-Chart-NMoQ-All.JPG">
+### Final result
+
 ## [Back](./)
 
