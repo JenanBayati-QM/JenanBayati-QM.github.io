@@ -55,6 +55,8 @@ This took me the whole day.
 
 I also had to fix a few bugs that came up in the end. Overall, I was happy with it. Of course, I would have liked to add more elements and features to it but for simplicity reasons I didn't want to make it heavy.
 
+<img src="assets/AudioGuide-Girl.JPG">
+
 For the rest of the day, I worked on my blog and tried something new by adding links to each week that had the days in them. I didn't have time to add photos, but it will be on my to do list for the coming week.
 
 And so is my second week done. I am happy as I have unlocked new skills <b>:)</b>
