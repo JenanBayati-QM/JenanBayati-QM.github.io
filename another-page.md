@@ -40,11 +40,11 @@ Disclaimer, don't eat expired egg even if it looks good!
 
 <b>Today</b> I continued to analyse the observation sheets and chose to do the charts about:
 
-1. How many minute does different ages spend on an exhibition
+<b>1. How many minute does different ages spend on an exhibition</b>
 
-2. How Different types move in exhibitions
+<b>2. How Different types move in exhibitions</b>
 
-In order to get the data that I want. I would go though all the sheet one by one and mark down on excel the amount of people in their section.
+In order to get the data that I want. I went through all the sheet one by one and marked down on excel the amount of people in their section.
 
 After all the data was in Excel I generated there a chart that would be fit for my purpose.
 
@@ -63,6 +63,9 @@ The charts were ready and  I made a presentation about it in PowerPoint.  In the
 <b>T</b>  = Threat
 
 I will present this to my manager tomorrow and get feedback from it.
+
+<img src="assets/QM-survey-RM.PNG">
+
 
 ***
 
