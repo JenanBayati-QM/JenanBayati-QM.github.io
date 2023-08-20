@@ -7,7 +7,7 @@ layout: default
 # [Week 3](./another-page-3.html)
 # [Week 4](./another-page-4.html)
 
-<img src="https://seeklogo.com/images/Q/qatar-museum-logo-304B742416-seeklogo.com.png">
+<img src="file:///Users/naska-habe/Downloads/LM/LM–logo/LM_logo_lowres_white_orange_ff752f.png">
 
 ```
 Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23'
