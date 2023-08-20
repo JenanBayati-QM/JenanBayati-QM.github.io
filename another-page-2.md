@@ -25,7 +25,7 @@ Also, I went a bit through the Lusail Museums guidelines and my day was over.
 
 <b>Today</b> I tried out if the coding would have been easier, but it was a bit overwhelming. Because of that I discussed with my supervisor about the possibility of Figma and luckily it was fine with him :)
 
-Before starting to work with my own version of the Audio Guide I went thoroughly thrue the LM guidelines. After that I started working on the platform.
+Before starting to work with my own version of the Audio Guide I went thoroughly through the LM guidelines. After that I started working on the platform.
 
 This took me a whole day. As I was trying different colors, text and all the possible layouts.
 
