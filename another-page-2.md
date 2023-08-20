@@ -11,7 +11,7 @@ Few of the changes that I made:
 * Changed colors of the chart.
 * Better layout.
 
-(Photos)
+<img src="assets/QM-Survey-Chart.PNG">
 
 <b>At</b> 10 I had the weekly meeting of QM staff. Everybody went through what they had done, and I also got to say how my first week went.
 
