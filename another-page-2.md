@@ -12,6 +12,7 @@ Few of the changes that I made:
 * Better layout.
 
 <img src="assets/QM-Survey-Chart.PNG">
+#### Horizontal Bar Graph
 
 <b>At</b> 10 I had the weekly meeting of QM staff. Everybody went through what they had done, and I also got to say how my first week went.
 
@@ -56,6 +57,7 @@ This took me the whole day.
 I also had to fix a few bugs that came up in the end. Overall, I was happy with it. Of course, I would have liked to add more elements and features to it but for simplicity reasons I didn't want to make it heavy.
 
 <img src="assets/AudioGuide-Girl.JPG">
+#### 2nd audio in AudioGuide book that I did
 
 For the rest of the day, I worked on my blog and tried something new by adding links to each week that had the days in them. I didn't have time to add photos, but it will be on my to do list for the coming week.
 
