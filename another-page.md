@@ -99,7 +99,9 @@ Comparing results  of AJ & TA
 I did the chart in Excel. I might want to next time try some other program and see how it works!
 
 <img src="assets/Survey-Chart-JB.PNG">
+
 #### Dot&Line Graph
+
 
 My first week was very interesting and I lerned a lot of new things. Can't wait for the coming weeks!
 
