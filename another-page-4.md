@@ -31,6 +31,34 @@ I got it to half way and will continiue working on it tomorrow.
 
 ## Day 19 (23.08.2023)
 
+<b>Today</b> I continued with the prototype and I did some last edits:
+
+* Add images
+* Layout all the elemenets that they are in line
+* Add LM colors
+* Finished animation
+
+I did this prototype in Figma and here is the link for anybody interested:
+https://www.figma.com/proto/R3306ckWXxGVPUSv6ZLdkC/OpenSource-QM?page-id=0%3A1&type=design&node-id=46-21&viewport=353%2C105%2C0.14&t=e359EfOkww0p1zMl-1&scaling=contain&starting-point-node-id=46%3A21&mode=design
+
+In between of editing I had at 10 AM a meeting with my supervior where we went through a bit of this current task. I suggested that it would be nice to try AR with some of the museums jewlery. Ofcourse, I can't yous the official jewlery but I gor permission to make one in blender and how it would work in AR as filter.
+
+I was making rest of the day jewlery in blender.
+
 ## Day 20 (24.08.2023)
+
+<b>I</b> continued today in blender and finished the base of my elements. I have not mentioned yet but I am working on pearl necklace. I have to add some sipmle details on the pearls and materials to the them and steel parts.
+
+I also researched how I would tarnsfer the 3D object to AR phone filter. I found few and will continue working on it on Sunday.
+
+As much I would have liked to work on the AR I had to come fix my blog in GitHub. Previously I could see the changes in GitHub but not on the page. I had discussed about this with my supervisor and he mentioned that my config seemed to miss something.
+
+I fixed the config to how it was originally, also I figured out that I had changed my index page to main which was why my page would not update. After changing names it worked again!
+
+For the pictures I was missing from the beginning a / which why it was not dispalying them.
+
+I worked on this rest of the day but I am very happy as it is working again :))
+
+See you next week which is <b>WEEK 5</b>
 
 ## [Back](./)
