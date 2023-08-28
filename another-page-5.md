@@ -13,3 +13,5 @@ Unfortunately, my texture desapeard and as I wanted to make a fast prototype I c
 Working in Spark was relativly easy and I got to but the jewlery as a working filter. It looked a bit stiff but it still worked.
 
 If I could make it again I would have worked more on the texture and make it look more realistic. Also, would have spend more time on Spark to discover different options.
+
+<img src="/assets/Jewlery-Filter-QM-PNG">
