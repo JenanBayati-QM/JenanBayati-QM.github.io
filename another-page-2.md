@@ -12,7 +12,7 @@ Few of the changes that I made:
 * Better layout.
 
 <img src="/assets/QM-Survey-Chart.PNG">
-#### Horizontal Bar Graph
+ Horizontal Bar Graph
 
 <b>At</b> 10 I had the weekly meeting of QM staff. Everybody went through what they had done, and I also got to say how my first week went.
 
