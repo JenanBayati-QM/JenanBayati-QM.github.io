@@ -40,13 +40,13 @@ We went through a bit of how my next week would look like and what should I focu
 
 After the meeting I continued working on the platform for the whole day. I saw how my mind was much clearer when thinking out loud with somebody.
 
-## Day 9 (08.08.2023)
+## Day 9 (09.08.2023)
 
 Today I finished the overall layout and was committing the whole day for animation of the platform. However, it took me quite a bit of time as I had few problems with Figma feature. However, after trials and errors it worked, and I got e.g. the photos and texts in carusel and the scrolling was working as I wanted.
 
 This took me the whole day.
 
-## Day 10 (09.08.2023)
+## Day 10 (10.08.2023)
 
 <b>For</b> today I finalized the platform by:
 * Adding depth to it
