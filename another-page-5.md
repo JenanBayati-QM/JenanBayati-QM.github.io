@@ -18,11 +18,32 @@ If I could make it again I would have worked more on the texture and make it loo
 
 ## Day 22 (29.08.2023)
 
+<b>Today</b> I started to make a summary of the book: Storytelling with Data. I had done few notes and thought It would be useful for new interns. 
+
+I collected all my notes, added some more and made sure that they were from the book. Also, I gatecorized all the information and made a logical content list out of it.
+
+Tomorrow I will start doing the Summary.
+
 ## Day 23 (30.08.2023)
+
+<b>For</b> the whole day I worked on the Summary as I did everything on it myself. Also, I got an assignment to make a few slide presentation about Service Design. 
+
+I was really excited as I get to talk about it to the LM team.
 
 ## Day 22 (29.08.2023)
 
+<b>Today</b> I thought how can I summaries service Design in few slides. What is relevant and what is not. What examples should I show and most importly how we can use it in the museum field.
+
+I ended up writing about most important attribute to service design. I thought how could I explain it to somebody who has not heard of it before.
+
+As a result I did nine bullet points about what Service Design means and did an example of audio guide journeymap and SWOT analyses of it.
+
 ## Day 24 (30.08.2023)
 
+<b>Today</b> I thought about the layout, made icons to it, used LM colors and finalized it. Also, for the examples I did grafics.
+
+Making this took me the whole day but I am excited to present it to everybody on Sunday. Hopefully my team will get a better undrestanding of SD and might even use it in their field.
+
+Also, I forgot to write my blog so I wrote this week's tasks on Friday.
 
 ## [Back](./)
