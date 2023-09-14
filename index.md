@@ -8,6 +8,7 @@ layout: default
 # [Week 4](./another-page-4.html)
 # [Week 5](./another-page-5.html)
 # [Week 6](./another-page-6.html)
+# [Week 7](./another-page-7.html)
 
 ```
 Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23'
