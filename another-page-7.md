@@ -24,7 +24,7 @@ Also, I did a summary of the museums.
 
 Gladly I would have a meeting with my supervisor on Wednesday so we can check them together.
 
-<img src="/assets/Journeymap–AudioGuide-WS.JPEG/"> 
+<img src="/assets/Museum-Benchmark-Page.JPEG/"> 
 
 ## Day 32 (12.09.2023)
 
