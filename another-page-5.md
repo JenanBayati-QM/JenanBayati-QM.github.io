@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Day 21 (28.08.2023)
-I continued working on the jewlery. I added texture to it that I had to play with a bit as there are many options to choose from. Also. I sculpted every pearl uniqely. There were over 100 objects that I had to work on separately. That took mos of my time. 
+<b>I</b> continued working on the jewlery. I added texture to it that I had to play with a bit as there are many options to choose from. Also. I sculpted every pearl uniqely. There were over 100 objects that I had to work on separately. That took mos of my time. 
 
 As I was done with my pearl jewlery I had to choose where to put it in order to use it as AR filter. First I searched for Open Source but the I thought <b>What if it was a filter in instagram?</b> more people would stumble up on it and would like to see it live. That then was what I aimed for.
 
