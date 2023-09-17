@@ -11,7 +11,7 @@ layout: default
 # [Week 7](./another-page-7.html)
 
 
-[<img src="img/myImage.png">]([http://example.com/](https://jenanbayati-qm.github.io/another-page.html))
+[<img src="LM-logo-lowres-white-orange-ff752f.PNG">]([http://example.com/](https://jenanbayati-qm.github.io/another-page.html))
 
 ```
 Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23'
