@@ -14,7 +14,7 @@ Working in Spark was relativly easy and I got to but the jewlery as a working fi
 
 If I could make it again I would have worked more on the texture and make it look more realistic. Also, would have spend more time on Spark to discover different options.
 
-<img src="/assets/Jewlery-blender.JPEG/" width="290" height="400">       <img src="/assets/Jewlery-Filter-QM.PNG/"> 
+<img src="/assets/Jewlery-blender.JPEG/" width="350" height="400">       <img src="/assets/Jewlery-Filter-QM.PNG/"> 
 
 ## Day 22 (29.08.2023)
 
