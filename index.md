@@ -10,6 +10,9 @@ layout: default
 # [Week 6](./another-page-6.html)
 # [Week 7](./another-page-7.html)
 
+
+[<img src="img/myImage.png">]([http://example.com/](https://jenanbayati-qm.github.io/another-page.html))
+
 ```
 Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23'
 ```
