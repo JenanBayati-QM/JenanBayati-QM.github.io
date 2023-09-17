@@ -11,7 +11,11 @@ layout: default
 # [Week 7](./another-page-7.html)
 
 
-<img src="/assets/LM-logo-lowres-white-orange-ff752f.PNG">
+<img src="/assets/Week-1.JPEG">    <img src="/assets/Week-2.JPEG">    <img src="/assets/Week-3.JPEG">
+
+<img src="/assets/Week-4.JPEG">    <img src="/assets/Week-5.JPEG">    <img src="/assets/Week-6.JPEG">
+
+<img src="/assets/Week-7.JPEG">
 
 
 ```
