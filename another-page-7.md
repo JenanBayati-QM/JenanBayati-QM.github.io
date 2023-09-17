@@ -24,6 +24,8 @@ Also, I did a summary of the museums.
 
 Gladly I would have a meeting with my supervisor on Wednesday so we can check them together.
 
+<img src="/assets/Journeymap–AudioGuide-WS.JPEG/"> 
+
 ## Day 32 (12.09.2023)
 
 Today I got a permission to go to my uni class that was madatory. Due to that I was not workig today.
