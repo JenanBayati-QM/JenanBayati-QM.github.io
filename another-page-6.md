@@ -22,7 +22,7 @@ For the rest of the day I worked on two different Journey Maps:
 1. Augio Guide Journey Map (Museum)
 2. Audio Guide Journey Map (Website)
 
-<img src="/assets/Journeymap–AudioGuide-WS.JPEG/">     <img src="/assets/Journeymap–AudioGuide-WS.JPEG/"> 
+<img src="/assets/Journeymap–AudioGuide-WS.JPEG/">     <img src="/assets/Journeymap–AudioGuide-Museum.JPEG/"> 
 
 ## Day 26 (04.09.2023)
 
