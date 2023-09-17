@@ -22,6 +22,8 @@ For the rest of the day I worked on two different Journey Maps:
 1. Augio Guide Journey Map (Museum)
 2. Audio Guide Journey Map (Website)
 
+<img src="/assets/Jewlery-Filter-QM.PNG/"> 
+
 ## Day 26 (04.09.2023)
 
 I continued working on the maps. I was doing it in Illustrator as I am comfortable with it. I finished it by adding icons, colors, some hierarchy to text and titles along the journey to make it more understandable.
