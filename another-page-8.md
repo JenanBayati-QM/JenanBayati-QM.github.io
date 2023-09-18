@@ -1,3 +1,5 @@
-<div allign="center"
+---
+layout: default
+---
+
 # Coming Soon
-  </div>
