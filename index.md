@@ -13,9 +13,9 @@ layout: default
 
 <div align="center"> 
 <kbd>
-<img src="/assets/Week-1.JPEG" width="200" lenght="470">(https://jenanbayati-qm.github.io/another-page.html)</kbd>
+<img src="/assets/Week-1.JPEG" width="200" lenght="470">[(https://jenanbayati-qm.github.io/another-page.html)]</kbd>
 
-<kbd><img src="/assets/Week-2.JPEG" width="200" lenght="470">(https://jenanbayati-qm.github.io/another-page-2.html)</kbd> <kbd><img src="/assets/Week-3.JPEG" width="200" lenght="470"></kbd>
+<kbd><img src="/assets/Week-2.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-3.JPEG" width="200" lenght="470"></kbd>
 
 <kbd><img src="/assets/Week-4.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-5.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-6.JPEG" width="200" lenght="470"></kbd>
 
