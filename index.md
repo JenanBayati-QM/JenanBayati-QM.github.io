@@ -13,9 +13,10 @@ layout: default
 <div align="center"> 
  <kbd><img src="/assets/Week-1.JPEG" text="week 1" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-2.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-3.JPEG" width="200" lenght="470"></kbd>
 
-<img src="/assets/Week-4.JPEG" width="200" lenght="470"> <img src="/assets/Week-5.JPEG" width="200" lenght="470"> <img src="/assets/Week-6.JPEG" width="200" lenght="470">
+<kbd><img src="/assets/Week-4.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-5.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-6.JPEG" width="200" lenght="470"></kbd>
 
-<img src="/assets/Week-7.JPEG" width="200" lenght="470">
+<kbd><img src="/assets/Week-7.JPEG" width="200" lenght="470"></kbd>
+
 
 </div>
 ```
