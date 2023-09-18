@@ -32,7 +32,7 @@ layout: default
    Week 7
   </div></a>
 
-<a href="https://jenanbayati-qm.github.io/another-page-8.html"><kbd><img src="/assets/Week-7.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+<a href="https://jenanbayati-qm.github.io/another-page-8.html"><kbd><img src="/assets/Week-8.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
    Week 7
   </div></a>
 
