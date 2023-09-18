@@ -23,17 +23,29 @@ layout: default
     Week 1
   </div></a> 
   
-<a href="https://jenanbayati-qm.github.io/another-page-2.html"><kbd><img src="/assets/Week-2.JPEG" width="150" lenght="420"></kbd></a> 
+<a href="https://jenanbayati-qm.github.io/another-page-2.html"><kbd><img src="/assets/Week-2.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+    Week 2
+  </div></a> 
 
-<a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd></a>
+<a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+    Week 3
+  </div></a>
 
-<a href="https://jenanbayati-qm.github.io/another-page-4.html"><kbd><img src="/assets/Week-4.JPEG" width="150" lenght="420"></kbd></a>     
+<a href="https://jenanbayati-qm.github.io/another-page-4.html"><kbd><img src="/assets/Week-4.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+    Week 4
+  </div></a>     
 
-<a href="https://jenanbayati-qm.github.io/another-page-5.html"><kbd><img src="/assets/Week-5.JPEG" width="150" lenght="420"></kbd></a>   
+<a href="https://jenanbayati-qm.github.io/another-page-5.html"><kbd><img src="/assets/Week-5.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+    Week 5
+  </div></a>   
 
-<a href="https://jenanbayati-qm.github.io/another-page-6.html"><kbd><img src="/assets/Week-6.JPEG" width="150" lenght="420"></kbd></a>
+<a href="https://jenanbayati-qm.github.io/another-page-6.html"><kbd><img src="/assets/Week-6.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+    Week 6
+  </div></a>
 
-<a href="https://jenanbayati-qm.github.io/another-page-7.html"><kbd><img src="/assets/Week-7.JPEG" width="150" lenght="420"></kbd></a>
+<a href="https://jenanbayati-qm.github.io/another-page-7.html"><kbd><img src="/assets/Week-7.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+   Week 7
+  </div></a>
 
 
 </div>
