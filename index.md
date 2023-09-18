@@ -20,13 +20,11 @@ layout: default
 <div align="center"> 
 <a href="https://jenanbayati-qm.github.io/another-page.html">
   <kbd><img src="/assets/Week-1.JPEG" width="150" length="420"></kbd>
-</a>
+</a> <a href="https://jenanbayati-qm.github.io/another-page-2.html"><kbd><img src="/assets/Week-2.JPEG" width="150" lenght="420"></kbd></a> <a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd></a>
 
-<a href="https://jenanbayati-qm.github.io/another-page-2.html"><kbd><img src="/assets/Week-2.JPEG" width="150" lenght="420"></kbd></a> <a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd></a>
+<a href="https://jenanbayati-qm.github.io/another-page-4.html"><kbd><img src="/assets/Week-4.JPEG" width="150" lenght="420"></kbd></a>     <a href="https://jenanbayati-qm.github.io/another-page-5.html"><kbd><img src="/assets/Week-5.JPEG" width="150" lenght="420"></kbd></a>   <a href="https://jenanbayati-qm.github.io/another-page-6.html"><kbd><img src="/assets/Week-6.JPEG" width="200" lenght="470"></kbd></a>
 
-<kbd><img src="/assets/Week-4.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-5.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-6.JPEG" width="200" lenght="470"></kbd>
-
-<kbd><img src="/assets/Week-7.JPEG" width="200" lenght="470"></kbd>
+<a href="https://jenanbayati-qm.github.io/another-page-7.html"><kbd><img src="/assets/Week-7.JPEG" width="150" lenght="420"></kbd></a>
 
 </div>
 ```
