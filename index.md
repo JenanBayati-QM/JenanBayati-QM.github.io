@@ -11,8 +11,8 @@ layout: default
 # [Week 7](./another-page-7.html)
 
 <div style="position: relative;">
-  <img src="./images/my-image.jpg" alt="Example Image" />
-  <p style="position: absolute; top: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px;">Text Overlay</p>
+  <img src="/assets/Week-1.JPEG" width="200" lenght="470">
+  <p style="position: absolute; top: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px;">Week 1</p>
 </div>
 
 
