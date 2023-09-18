@@ -10,7 +10,7 @@ layout: default
 # [Week 6](./another-page-6.html)
 # [Week 7](./another-page-7.html)
 
-<div style="position: relative;">
+<div style="position: center;">
   <img src="/assets/Week-1.JPEG" width="200" lenght="470">
   <p style="position: absolute; top: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px;">Week 1</p>
 </div>
