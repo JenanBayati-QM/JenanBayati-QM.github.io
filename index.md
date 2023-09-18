@@ -18,7 +18,7 @@ layout: default
 
 <div align="center"> 
  
-<div style="position: relative;"> <kbd><img src="/assets/Week-1.JPEG" text="week 1" width="200" lenght="470"><p style="position: absolute; top: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px;"># [Week 1](./another-page.html)</p></kbd></div> <kbd><img src="/assets/Week-2.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-3.JPEG" width="200" lenght="470"></kbd>
+<div style="position: relative;"> <kbd><img src="/assets/Week-1.JPEG" width="200" lenght="470"><p style="position: absolute; top: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px;"># [Week 1](./another-page.html)</p></kbd></div> <kbd><img src="/assets/Week-2.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-3.JPEG" width="200" lenght="470"></kbd>
 
 <kbd><img src="/assets/Week-4.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-5.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-6.JPEG" width="200" lenght="470"></kbd>
 
