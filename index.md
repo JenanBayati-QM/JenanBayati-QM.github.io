@@ -10,17 +10,10 @@ layout: default
 # [Week 6](./another-page-6.html)
 # [Week 7](./another-page-7.html)
 
-<div style="position: center;">
-  <img src="/assets/Week-1.JPEG" width="200" lenght="470">
-  <p style="position: absolute; top: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px;">Week 1</p>
-</div>
-
-[<img src="img/myImage.png">](http://example.com/)
-
 
 <div align="center"> 
 <kbd>
-[<img src="/assets/Week-1.JPEG" width="200" lenght="470">](https://jenanbayati-qm.github.io/another-page.html)<p style="position: absolute; top: 10px; left: 10px; color: white; background: rgba(0, 0, 0, 0.5); padding: 5px;">Week 1</p></kbd>
+<img src="/assets/Week-1.JPEG" width="200" lenght="470">(https://jenanbayati-qm.github.io/another-page.html)</kbd>
 
 <kbd><img src="/assets/Week-2.JPEG" width="200" lenght="470">(https://jenanbayati-qm.github.io/another-page-2.html)</kbd> <kbd><img src="/assets/Week-3.JPEG" width="200" lenght="470"></kbd>
 
