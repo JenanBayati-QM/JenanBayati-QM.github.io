@@ -12,7 +12,7 @@ layout: default
     Week 2
   </div></a> 
 
-<a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 20%; left: 72%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+<a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 20%; left: 72.5%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
     Week 3
   </div></a>
 
@@ -24,7 +24,7 @@ layout: default
     Week 5
   </div></a>   
 
-<a href="https://jenanbayati-qm.github.io/another-page-6.html"><kbd><img src="/assets/Week-6.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 55%; left: 72%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+<a href="https://jenanbayati-qm.github.io/another-page-6.html"><kbd><img src="/assets/Week-6.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 55%; left: 72.5%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
     Week 6
   </div></a>
 
@@ -32,11 +32,11 @@ layout: default
    Week 7
   </div></a>
 
-<a href="https://jenanbayati-qm.github.io/another-page-8.html"><kbd><img src="/assets/Week-8.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+<a href="https://jenanbayati-qm.github.io/another-page-8.html"><kbd><img src="/assets/Week-8.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 95%; left: 60%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
    Week 8
   </div></a>
 
-  <a href="https://jenanbayati-qm.github.io/another-page-9.html"><kbd><img src="/assets/Week-9.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+  <a href="https://jenanbayati-qm.github.io/another-page-9.html"><kbd><img src="/assets/Week-9.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 95%; left: 72.5%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
    Week 9
   </div></a>
 
