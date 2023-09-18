@@ -11,7 +11,7 @@ layout: default
 # [Week 7](./another-page-7.html)
 
 
-<img src="/assets/Week-1.JPEG">    <img src="/assets/Week-2.JPEG">    <img src="/assets/Week-3.JPEG">
+<img src="/assets/Week-1.JPEG" width="130" lenght="400">    <img src="/assets/Week-2.JPEG">    <img src="/assets/Week-3.JPEG">
 
 <img src="/assets/Week-4.JPEG">    <img src="/assets/Week-5.JPEG">    <img src="/assets/Week-6.JPEG">
 
