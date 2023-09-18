@@ -8,11 +8,11 @@ layout: default
     Week 1
   </div></a> 
   
-<a href="https://jenanbayati-qm.github.io/another-page-2.html"><kbd><img src="/assets/Week-2.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 20%; left: 67%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+<a href="https://jenanbayati-qm.github.io/another-page-2.html"><kbd><img src="/assets/Week-2.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 20%; left: 60%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
     Week 2
   </div></a> 
 
-<a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 20%; left: 77%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+<a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 20%; left: 74%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
     Week 3
   </div></a>
 
