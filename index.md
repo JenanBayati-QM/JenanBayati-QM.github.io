@@ -2,21 +2,6 @@
 layout: default
 ---
 
-# [Week 1](./another-page.html)
-# [Week 2](./another-page-2.html)
-# [Week 3](./another-page-3.html)
-# [Week 4](./another-page-4.html)
-# [Week 5](./another-page-5.html)
-# [Week 6](./another-page-6.html)
-# [Week 7](./another-page-7.html)
-
-
-<a href="https://jenanbayati-qm.github.io/another-page.html">
-  <kbd><img src="/assets/Week-1.JPEG" width="200" length="470"></kbd>
-</a>
-
-
-
 <div align="center"> 
   
 <a href="https://jenanbayati-qm.github.io/another-page.html"><kbd><img src="/assets/Week-1.JPEG" width="150" length="420"></kbd><div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
