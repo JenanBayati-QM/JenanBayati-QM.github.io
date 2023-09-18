@@ -18,7 +18,7 @@ layout: default
 
 
 <div align="center"> 
-<a href="https://jenanbayati-qm.github.io/another-page.html">
+# Week 1 <a href="https://jenanbayati-qm.github.io/another-page.html">
   <kbd><img src="/assets/Week-1.JPEG" width="150" length="420"></kbd>
 </a> <a href="https://jenanbayati-qm.github.io/another-page-2.html"><kbd><img src="/assets/Week-2.JPEG" width="150" lenght="420"></kbd></a> <a href="https://jenanbayati-qm.github.io/another-page-3.html"><kbd><img src="/assets/Week-3.JPEG" width="150" lenght="420"></kbd></a>
 
