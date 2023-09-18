@@ -11,9 +11,14 @@ layout: default
 # [Week 7](./another-page-7.html)
 
 
+<a href="https://jenanbayati-qm.github.io/another-page.html">
+  <kbd><img src="/assets/Week-1.JPEG" width="200" length="470"></kbd>
+</a>
+
+
+
 <div align="center"> 
-<kbd>
-<img src="/assets/Week-1.JPEG" width="200" lenght="470"></kbd>
+<kbd><img src="/assets/Week-1.JPEG" width="200" lenght="470"></kbd>
 
 <kbd><img src="/assets/Week-2.JPEG" width="200" lenght="470"></kbd> <kbd><img src="/assets/Week-3.JPEG" width="200" lenght="470"></kbd>
 
