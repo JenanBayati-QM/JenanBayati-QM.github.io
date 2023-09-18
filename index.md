@@ -16,7 +16,7 @@ layout: default
     Week 3
   </div></a>
 
-<a href="https://jenanbayati-qm.github.io/another-page-4.html"><kbd><img src="/assets/Week-4.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 54%; left: 47%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+<a href="https://jenanbayati-qm.github.io/another-page-4.html"><kbd><img src="/assets/Week-4.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 55%; left: 48%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
     Week 4
   </div></a>     
 
@@ -28,7 +28,7 @@ layout: default
     Week 6
   </div></a>
 
-<a href="https://jenanbayati-qm.github.io/another-page-7.html"><kbd><img src="/assets/Week-7.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 80%; left: 46%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
+<a href="https://jenanbayati-qm.github.io/another-page-7.html"><kbd><img src="/assets/Week-7.JPEG" width="150" lenght="420"></kbd><div style="position: absolute; top: 90%; left: 46%; transform: translate(50%, 50%); background-color: rgba(0, 0, 0, 0.5); color: white; padding: 5px;">
    Week 7
   </div></a>
 
