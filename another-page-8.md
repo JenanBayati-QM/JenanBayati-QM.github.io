@@ -42,7 +42,7 @@ Here were few that I listened to:
 - https://podcasts.apple.com/gb/podcast/the-british-museum-podcast/id1147175428
 - https://podcasts.apple.com/us/podcast/dr-janina-ramirez-art-detective/id1182937767
 
- ## Day 40 (21.09.2023)
+ ## Day 39 (21.09.2023)
 
  <b>Today</b> I made a updated to the QM's & NMOQs landing page. The changes were based on my last weeks benchmarking on different museums websites.
 
