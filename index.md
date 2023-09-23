@@ -44,7 +44,7 @@ layout: default
 
   </div>
 
-#### All carpets are Qatar Museums collection and you can see them in Google arts&culture
+###### All carpets are Qatar Museums collection and you can see them in Google arts&culture
 
 ```
 Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23' Jenan Bayati Intership 23'
