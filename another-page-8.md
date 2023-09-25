@@ -54,7 +54,7 @@ Here were few that I listened to:
  * Take unnecassary section away from top
  * Adding necassary sections
 
-  I did yhese in Figma and sent the final versions to my supervisor.
+  I did these in Figma and sent the final versions to my supervisor.
 
 
 ## [Back](./)
