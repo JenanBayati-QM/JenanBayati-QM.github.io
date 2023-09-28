@@ -10,14 +10,17 @@ As I was editing the blog I had few problems where my GitHub updated the element
 
 Also, I will get my new task tomorrow :)
 
+***
+
 ## Day 17 (21.08.2023)
+
 <b>In</b> ​the morning I continiued a bit with my blog. It still had the same problem but would get help soon to it.
 
 I also got my task of the week and started going through all the links that my supervisor gave. The task: Experiment with museums online collections. It was very interesting to see how much is now days open source and the freedom that comes with it. You can edit and use them however you like.
 
 For the hole day I only did research on the subject and wanted to understand how it works and what are the possabilities. Tomorrow I will start prototyping as I alredy have few ideas what I would like to try out.
 
-
+***
 
 ## Day 18 (22.08.2023)
 
@@ -29,7 +32,7 @@ After my meeting and researching I started to do my prototype. I tried to build 
 
 I got it to half way and will continiue working on it tomorrow.
 
-
+***
 
 ## Day 19 (23.08.2023)
 
@@ -46,9 +49,9 @@ https://www.figma.com/proto/R3306ckWXxGVPUSv6ZLdkC/OpenSource-QM?page-id=0%3A1&t
 
 In between of editing I had at 10 AM a meeting with my supervior where we went through a bit of this current task. I suggested that it would be nice to try AR with some of the museums jewlery. Ofcourse, I can't use the official jewlery but I gor permission to make one in blender and how it would work in AR as filter.
 
-I was making for rest of the day my object in blender.
+I was making my object in blender for rest of the day.
 
-
+***
 
 ## Day 20 (24.08.2023)
 
