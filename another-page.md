@@ -14,7 +14,7 @@ My tasks are mostly focused on computer, for example, analyzing surveys, present
 
 At 10 AM I got to the weekly QM staff meeting, where I got to meet LM staff and their interesting tasks.
 
-At 11 AM My manager gave me a tour of the Qatar National Museum remotely and my internship partner on site. The main focus was on the use media devices. What different programs were running on them, how some were programmed, what were the name's of the different screens , etc.
+At 11 AM My supervisor gave me a tour of the Qatar National Museum remotely and my internship partner on site. The main focus was on the use of media devices. What different programs were running on them, how some were programmed, what were the name's of the different screens , etc.
 
 I had visited this museum before, but it was even more fascinating to understand what is done behind the scenes, how much work has been put into it.
 
@@ -26,7 +26,7 @@ The rest of the day I spent on setting my new email.
 
 ## Day 2 (31.08.23)
 
-<b>On</b>  my second day I started to read and analyse data from previous observation sheet.
+<b>On</b>  my second day I started to read and analyse data from previous observation sheets.
 
 In total I analysed 37 observation sheets first individually. After that I started to compere them with each other and tried to think what would I like to analyse deeper. From what should I  make a chart?
 
@@ -50,7 +50,7 @@ After all the data was in Excel I generated there a chart that would be fit for 
 
 I exported the excel chart and finalised it in Illustrator as it gives more freedom to play with it.
 
-The charts were ready and  I made a presentation about it in PowerPoint.  In the slides I wrote about my results, pros and cons of the observation sheet,  ideas how we could make it work better and suggested a SWOT analysis as a fast method to understand is our chart/ sheet good.
+The charts were ready and  I made a presentation about it in PowerPoint.  In the slides I wrote about my results, pros and cons of the observation sheet, ideas how we could make it work better and suggested a SWOT analysis as a fast method to understand is our chart/ sheet good.
 
 <b>SWOT</b>  analyses stand for
 
@@ -62,7 +62,7 @@ The charts were ready and  I made a presentation about it in PowerPoint.  In the
 
 <b>T</b>  = Threat
 
-I will present this to my manager tomorrow and get feedback from it.
+I will present this to my supervisor tomorrow and get feedback from it.
 
 <img src="assets/QM-survey-RM.PNG">
 #### Horizontal Bar Graph
@@ -83,7 +83,9 @@ We had an interesting discussion about it and I got few good tips when doing e.g
 
 After the meeting I went over two Survey results of QM visitors that were analysed beforehand with the Microsoft AI. My task is to compere these two and make a chart out of it. Main focus is on the use of digital & multimedia devices
 
-I also started doing my blog on GitHub which took more time than I thought as it was quite new for me. After many trials and errors I got it to work and will fill it in the next day.
+I also started doing my blog on GitHub which took more time than I thought as it was quite new for me. After many trials and errors it worked and will fill it tomorrow.
+
+***
 
 ## Day 5 (03.08.2023)
 
@@ -96,7 +98,7 @@ In addition to Doing my Blog I made a chart out of AJ's and TA's survey and I co
 * What was the most engaged multimedia content in this museum/exhibition?
 Comparing results  of AJ & TA
 
-I did the chart in Excel. I might want to next time try some other program and see how it works!
+I did the chart in Excel. I might try some other program next time and see how it works!
 
 <img src="assets/Survey-Chart-JB.PNG">
 
