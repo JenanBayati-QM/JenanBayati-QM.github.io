@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Day 21 (28.08.2023)
+## Day 21 (27.08.2023)
 
 <b>I</b> continued working on the jewlery. I added texture to it that I had to play with a bit as there are many options to choose from. Also. I sculpted every pearl uniqely. There were over 100 objects that I had to work on separately. That took mos of my time. 
 
@@ -20,7 +20,7 @@ If I could make it again I would have worked more on the texture and make it loo
 
 ***
 
-## Day 22 (29.08.2023)
+## Day 22 (28.08.2023)
 
 <b>Today</b> I started to make a summary of the book: Storytelling with Data. I had done few notes and thought It would be useful for new interns. 
 
@@ -30,7 +30,7 @@ Tomorrow I will start doing the Summary.
 
 ***
 
-## Day 23 (30.08.2023)
+## Day 23 (29.08.2023)
 
 <b>For</b> the whole day I worked on the Summary as I did everything on it myself. Also, I got an assignment to make a few slide presentation about Service Design. 
 
@@ -38,7 +38,7 @@ I was really excited as I get to talk about it to the LM team.
 
 ***
 
-## Day 22 (29.08.2023)
+## Day 22 (30.08.2023)
 
 <b>Today</b> I thought how can I summaries service Design in few slides. What is relevant and what is not. What examples should I show and most importly how we can use it in the museum field.
 
@@ -48,7 +48,7 @@ As a result I did nine bullet points about what Service Design means and did an 
 
 ***
 
-## Day 24 (30.08.2023)
+## Day 24 (31.08.2023)
 
 <b>Today</b> I thought about the layout, made icons to it, used LM colors and finalized it. Also, for the examples I did grafics.
 
