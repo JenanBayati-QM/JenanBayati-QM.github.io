@@ -10,6 +10,8 @@ I also was wondering what pictures should I use, so I searched a bit of the QM's
 
 Overall it took me a whole day to figure out how could I code what I wanted and what pictures to use.
 
+***
+
 ## Day 36 (18.09.2023)
 
 <b>I</b> started today to actually build the new layout of my blog. I tested what was the best size for my pictures, How much padding I wanted and where i would put my week text on the picture. 
@@ -18,6 +20,7 @@ This was quite time consuming as I had to one by one code them and add the texts
 
 You can see the result by going back to this blogs landing page or index section.
 
+***
 
 ## Day 37 (19.09.2023)
 
@@ -31,6 +34,8 @@ These are the most interesting articlese that I read:
 - https://medium.com/@miekevanderbijl/systems-thinking-design-72209d534c4c
 - https://medium.com/digital-moma/what-motivates-a-visit-to-moma-s-website-ebad33e67ef0
 
+***
+
 ## Day 38 (20.09.2023)
 
 <b>I</b> have today read more articles and I got a bit interested about museum podcasts. I listened to few of them and they might be something that QM could do in the future?
@@ -41,6 +46,8 @@ Here were few that I listened to:
 - https://podcasts.apple.com/us/podcast/the-lonely-palette/id1110780638
 - https://podcasts.apple.com/gb/podcast/the-british-museum-podcast/id1147175428
 - https://podcasts.apple.com/us/podcast/dr-janina-ramirez-art-detective/id1182937767
+
+***
 
  ## Day 39 (21.09.2023)
 
