@@ -22,6 +22,8 @@ I went through the research materials and visited the Audio guide of Australian 
 
 Also, I went a bit through the Lusail Museums guidelines and my day was over.
 
+***
+
 ## Day 7 (07.08.2023)
 
 <b>Today</b> I tried out if the coding would have been easier, but it was a bit overwhelming. Because of that I discussed with my supervisor about the possibility of Figma and luckily it was fine with him :)
@@ -29,6 +31,8 @@ Also, I went a bit through the Lusail Museums guidelines and my day was over.
 Before starting to work with my own version of the Audio Guide I went thoroughly through the LM guidelines. After that I started working on the platform.
 
 This took me a whole day. As I was trying different colors, text and all the possible layouts.
+
+***
 
 ## Day 8 (08.08.2023)
 
@@ -40,11 +44,15 @@ We went through a bit of how my next week would look like and what should I focu
 
 After the meeting I continued working on the platform for the whole day. I saw how my mind was much clearer when thinking out loud with somebody.
 
+***
+
 ## Day 9 (09.08.2023)
 
-Today I finished the overall layout and was committing the whole day for animation of the platform. However, it took me quite a bit of time as I had few problems with Figma feature. However, after trials and errors it worked, and I got e.g. the photos and texts in carusel and the scrolling was working as I wanted.
+Today I finished the overall layout and was committing the whole day for animation of the platform. However, it took me quite a bit of time as I had few problems with Figma feature. After trials and errors it worked, and I got e.g. the photos and texts in carusel and the scrolling was working as I wanted.
 
 This took me the whole day.
+
+***
 
 ## Day 10 (10.08.2023)
 
