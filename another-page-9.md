@@ -63,21 +63,18 @@ More about why these topics/categories in this link: https://infomedia.com/blog/
 
 ## Day 44 (28.09.2023)
 
-<b>Today</b> I worked all day on the blog as it is my last week so I made sure that:
+<b>Today</b> is my last day so, I worked all day on the blog.
 
 * Everything is listed
 * Layout is fine
 * Pictures are working
-* First letter of days are bold etc.
+* First letter of days are bold etc
+* Dates are right
 
 Also, I added this week's hours to the internship platform and made sure that I had listed all the days and hours right.
 
-***
+<b>Overall, it has been an amazing two months where I have learned a lot of new things and challanged myself. I am gratefull to have worked in QM and will look forward what future holds.</b>
 
-# Week 10
-
-
-
-Today is my last day...
-
+<b>- Jenan Bayati</b>
+  
 ## [Back](./)
