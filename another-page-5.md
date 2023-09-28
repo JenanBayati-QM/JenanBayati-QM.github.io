@@ -2,6 +2,7 @@
 layout: default
 ---
 ## Day 21 (28.08.2023)
+
 <b>I</b> continued working on the jewlery. I added texture to it that I had to play with a bit as there are many options to choose from. Also. I sculpted every pearl uniqely. There were over 100 objects that I had to work on separately. That took mos of my time. 
 
 As I was done with my pearl jewlery I had to choose where to put it in order to use it as AR filter. First I searched for Open Source but the I thought <b>What if it was a filter in instagram?</b> more people would stumble up on it and would like to see it live. That then was what I aimed for.
@@ -15,7 +16,9 @@ Working in Spark was relativly easy and I got to but the jewlery as a working fi
 If I could make it again I would have worked more on the texture and make it look more realistic. Also, would have spend more time on Spark to discover different options.
 
 <img src="/assets/Jewlery-blender.JPEG/">       
-<img src="/assets/Jewlery-Filter-QM.PNG/"> 
+<img src="/assets/Jewlery-Filter-QM.PNG/">
+
+***
 
 ## Day 22 (29.08.2023)
 
@@ -25,11 +28,15 @@ I collected all my notes, added some more and made sure that they were from the 
 
 Tomorrow I will start doing the Summary.
 
+***
+
 ## Day 23 (30.08.2023)
 
 <b>For</b> the whole day I worked on the Summary as I did everything on it myself. Also, I got an assignment to make a few slide presentation about Service Design. 
 
 I was really excited as I get to talk about it to the LM team.
+
+***
 
 ## Day 22 (29.08.2023)
 
@@ -38,6 +45,8 @@ I was really excited as I get to talk about it to the LM team.
 I ended up writing about most important attribute to service design. I thought how could I explain it to somebody who has not heard of it before.
 
 As a result I did nine bullet points about what Service Design means and did an example of audio guide journeymap and SWOT analyses of it.
+
+***
 
 ## Day 24 (30.08.2023)
 
